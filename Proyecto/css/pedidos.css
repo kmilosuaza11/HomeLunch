@@ -1,0 +1,15 @@
+﻿body {
+    background-image: url('../imagenes/desa.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 150%;
+}
+
+.jumbotron{
+    background: rgba(128,128,128,0.4);
+}
+.display-4{
+    color:white;
+}
+.lead{
+    color:white;
+}

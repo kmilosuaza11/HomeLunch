@@ -1,0 +1,14 @@
+﻿body {
+    background-image: url('../imagenes/mas.jpg');
+    background-size: 100% 200%;
+    background-repeat:no-repeat;
+}
+.jumbotron{
+    background: rgba(128,128,128,0.3);
+}
+.display-4{
+    color:white;
+}
+.lead{
+    color:white;
+}

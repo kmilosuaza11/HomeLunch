@@ -1,0 +1,21 @@
+﻿body {
+    background-image:url(../imagenes/im.jpg);
+}
+strong {
+    color: #0F1A76;
+    font-size: 30px;
+}
+.jumbotron {
+    background: rgba(26,20,162,0.7);
+    color: white;
+}
+.ac {
+    background: #0F1A76;
+    color:white;
+    border-radius:10px;
+}
+.titulo {
+    color: white;
+    font-size: 70px;
+}
+

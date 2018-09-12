@@ -1,0 +1,84 @@
+﻿body {
+    background-image: url(../imagenes/brasil.jpg);
+    background-size:cover;
+}
+.jumbotron {
+    background: rgba(128,128,128,0.3);
+}
+
+
+#TextBox1 {
+    background: rgba(255,255,255,0.50);
+    border-radius: 3px;
+}
+
+#TextBox2 {
+    background: rgba(255,255,255,0.50);
+    border-radius: 3px;
+}
+
+#TextBox3 {
+    background: rgba(255,255,255,0.50);
+    border-radius: 3px;
+}
+
+#TextBox4 {
+    background: rgba(255,255,255,0.50);
+    border-radius: 3px;
+}
+
+#TextBox5 {
+    background: rgba(255,255,255,0.50);
+    border-radius: 3px;
+    width: 168px;
+}
+
+#TextBox6 {
+    background: rgba(255,255,255,0.50);
+    border-radius: 3px;
+    width: 168px;
+}
+
+.jumbotron {
+    background: rgba(128,128,128,0.5);
+    text-align: center;
+}
+
+
+.auto-style1 {
+    width: 48%;
+    margin-left: 281px;
+    margin-top: 124px;
+    margin-bottom: 12px;
+}
+
+.auto-style2 {
+    width: 195px;
+    color: white;
+}
+
+.auto-style3 {
+    width: 195px;
+    height: 40px;
+    color: white;
+}
+
+.auto-style4 {
+    height: 40px;
+}
+
+#Button1 {
+    border-radius: 3px;
+    background: #6d8de6c9;
+}
+
+    #Button1:hover {
+        background: -webkit-linear-gradient(top,gray,#6d8de6c9);
+    }
+
+footer {
+    margin-top: 200px;
+    width: 100%;
+    height: 100px;
+    background: rgba(255,255,200,0.50);
+}

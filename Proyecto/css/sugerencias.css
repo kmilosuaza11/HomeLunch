@@ -1,0 +1,12 @@
+﻿body {
+    background-image: url('../imagenes/contrato.jpg');
+    background-repeat:no-repeat;
+    background-size:100% 200%;
+}
+.jumbotron{
+    background:rgba(128,128,128,0.3);
+}
+.display-4{
+    color:red;
+}
+

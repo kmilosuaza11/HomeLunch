@@ -1,0 +1,15 @@
+﻿body {
+    background-image: url('../imagenes/fondo.jpg');
+    background-size: 1280px;
+}
+.jumbotron {
+    margin-bottom: 0;
+    height: 190px;
+}
+
+.navbar {
+    margin-bottom: 0;
+}
+.card {
+    margin-top: 270px;
+}

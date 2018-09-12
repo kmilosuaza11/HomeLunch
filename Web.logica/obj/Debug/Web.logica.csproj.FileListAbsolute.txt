@@ -1,0 +1,6 @@
+D:\HomeLunch\proyecto restaurante\v2.0\Web.logica\bin\Debug\Web.logica.dll
+D:\HomeLunch\proyecto restaurante\v2.0\Web.logica\bin\Debug\Web.logica.pdb
+D:\HomeLunch\proyecto restaurante\v2.0\Web.logica\obj\Debug\Web.logica.csprojResolveAssemblyReference.cache
+D:\HomeLunch\proyecto restaurante\v2.0\Web.logica\obj\Debug\Web.logica.csproj.CoreCompileInputs.cache
+D:\HomeLunch\proyecto restaurante\v2.0\Web.logica\obj\Debug\Web.logica.dll
+D:\HomeLunch\proyecto restaurante\v2.0\Web.logica\obj\Debug\Web.logica.pdb

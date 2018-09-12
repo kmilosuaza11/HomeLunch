@@ -1,0 +1,14 @@
+﻿body {
+    background-image: url(../imagenes/radi.jpg);
+    background-repeat:no-repeat;
+    background-size: 100% 150%;
+}
+.jumbotron{
+    background: rgba(128,128,128,0.3);
+}
+.display-4{
+    color:black;
+}
+.lead{
+    color:red;
+}

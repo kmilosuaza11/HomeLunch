@@ -1,0 +1,44 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
+//camilo suaza 22/08/2018
+using System.Data;
+using System.Data.SqlClient;
+using System.Configuration;
+
+/// <summary>
+/// Descripción breve de tbl_modulos
+/// </summary>
+public class tbl_modulos
+{
+    public tbl_modulos()
+    {
+        //
+        // TODO: Agregar aquí la lógica del constructor
+        //
+    }
+    public int guardar_tbl_modulos(int id_modulo, string nom_modulo)
+    {
+        int rdo = 1;
+        try
+        {
+            var conex = new SqlConnection(ConfigurationManager.ConnectionStrings["homelunchConnectionString"].ConnectionString);
+
+            var insertar = "insert into tbl_modulos values(" + id_modulo + ",'" + nom_modulo + "')";
+            var comando = new SqlCommand(insertar, conex);
+            conex.Open();
+            int resultado = comando.ExecuteNonQuery();
+            if (resultado == 0)
+            {
+                rdo = 0;
+                conex.Close();
+            }
+        }
+        catch (Exception e)
+        {
+
+        }
+        return rdo;
+    }
+}
